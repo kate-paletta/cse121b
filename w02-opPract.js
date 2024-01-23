@@ -22,8 +22,9 @@ let stateUSA = "Montana";
 console.log(stateUSA);
 
 // 6. Increment the value in a variable by 3
-// x = ++3;
-// console.log(x);
+let z4 = 0;
+z4 += 3;
+console.log(z4);
 
 // 7. Compare to values to see if they are the same
 
