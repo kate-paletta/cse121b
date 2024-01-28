@@ -26,10 +26,10 @@ console.log(stateUSA);
 // z4 += 3;
 // console.log(z4);
 
-for (let i = 0; i < 16; i+3)
-{
-    console.log(i);
-}
+// for (let i = 0; i < 16; i+3)
+// {
+//     console.log(i);
+// }
 
 // 7. Compare to values to see if they are the same
 
